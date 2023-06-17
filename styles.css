@@ -16,7 +16,7 @@ header {
     background-color: #333;
     color: white;
     padding: 10px 0;
-    text-align: center;
+    text-align: left;
 }
 
 section {
@@ -30,7 +30,7 @@ h2 {
 footer {
     background-color: #333;
     color: white;
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
     position: fixed;
     bottom: 0;
