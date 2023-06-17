@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: #c0c0c0;
-    color: #1e1e1e;
+    color: #303030;
     padding: 10px;
     text-align: left;
 }
@@ -33,7 +33,7 @@ p, li {
 
 footer {
     background-color: #c0c0c0;
-    color: #1e1e1e;
+    color: #303030;
     text-align: left;
     padding: 10px;
     position: fixed;
