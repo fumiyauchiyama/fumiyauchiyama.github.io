@@ -23,8 +23,12 @@ section {
     margin: 10px;
 }
 
-h2 {
-    color: #333;
+h1, h2 {
+    font-size: 18px;
+}
+
+p, li {
+    font-size: 16px;
 }
 
 footer {
@@ -35,4 +39,14 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    h1, h2 {
+        font-size: 24px;
+    }
+
+    p, li {
+        font-size: 18px;
+    }
 }
