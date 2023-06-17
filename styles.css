@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #c0c0c0;
+    color: dimgray;
     padding: 10px 0;
     text-align: left;
 }
@@ -28,8 +28,8 @@ h2 {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #c0c0c0;
+    color: dimgray;
     text-align: left;
     padding: 10px 0;
     position: fixed;
