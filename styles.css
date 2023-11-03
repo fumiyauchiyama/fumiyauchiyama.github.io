@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'DIN';
-    src: url('fonts/din1451alt.ttf') format('truetype');
+    font-family: 'KiwiMaru';
+    src: url('fonts/KiwiMaru-Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'DIN', sans-serif;
+    font-family: 'KiwiMaru', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f5f5f5;
