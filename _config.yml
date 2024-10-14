@@ -67,7 +67,7 @@ google:
 
 include: ["_pages"]
 
-logo: "/assets/images/logo.jpg"
+# logo: "/assets/images/logo.jpg"
 
 defaults:
   # _posts
