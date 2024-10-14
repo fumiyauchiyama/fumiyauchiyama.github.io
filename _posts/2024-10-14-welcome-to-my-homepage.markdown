@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to ようこそ fumyiauchiyama.github.io"
 ---
-これはテストの投稿です。`times-uchiyama`
+これはテストの投稿です。I used this post to inspect markdown features on the framework. `times-uchiyama`
 
 {% highlight python %}
 def print_hi(name)
