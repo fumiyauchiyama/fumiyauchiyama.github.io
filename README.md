@@ -1,1 +1,0 @@
-# fumiyauchiyama.github.io
