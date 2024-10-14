@@ -14,7 +14,7 @@ B3, The University of Tokyo
  - 2022.9 - 2023.8: Part-time worker at Corpy&Co.</li>
 
 ## PUBLISHMENT
- - Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo, Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?, The 2024 Conference on Empirical Methods in Natural Language Processing
+ - Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo, Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?, The 2024 Main Conference on Empirical Methods in Natural Language Processing
  - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, “ツイートとリプライからなる木構造を用いた炎上度判定.”, 情報処理学会第83回全国大会, 5P-06, Mar. 2021. (**Got Student Encouragement Award**)
 
 ## MEMBERSHIP
