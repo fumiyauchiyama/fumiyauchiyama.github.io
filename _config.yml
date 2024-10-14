@@ -20,9 +20,8 @@
 
 title: 内山史也 / Fumiya UCHIYAMA
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a personal homepage of Fumiya UCHIYAMA (内山史也). 
+  This site is mainly for sharing my activities and some notes.
 domain: fumiyauchiyama-site.github.io 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fumiyauchiyama.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -95,7 +94,7 @@ defaults:
 author:
   name: "Fumiya UCHIYAMA"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Main interests is **Language Model**. Currently I`m a beginner of distributed computation." # Note: Markdown is allowed
+  bio: "Main interests is **Language Model**. Currently I'm a beginner of distributed computation." # Note: Markdown is allowed
 
   links:
     - label: "Twitter"
