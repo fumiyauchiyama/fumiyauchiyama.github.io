@@ -62,7 +62,8 @@ plugins:
 atom_feed:
   hide: true
 
-search: true
+google:
+  search_engine_id: 11522ddde081b46d4
 
 include: ["_pages"]
 
