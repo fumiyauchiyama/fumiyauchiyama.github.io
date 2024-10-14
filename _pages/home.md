@@ -11,7 +11,7 @@ B3, The University of Tokyo
  - 2024.1 - : Internship at UTLLM project, Matsuo Lab (UTokyo).
  - 2023.9 - 2023.12 : ML Engineer/Annotator at LLM-X project, Matsuo Lab (UTokyo)
  - 2023.5 - : Reaserch Part-time Worker 2 at Deep Learning Theory Team, RIKEN AIP
- - 2022.9 - 2023.8: Part-time worker at Corpy&Co.</li>
+ - 2022.9 - 2023.8: Part-time worker at Corpy&Co.
 
 ## PUBLISHMENT
  - Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo, Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?, The 2024 Main Conference on Empirical Methods in Natural Language Processing
