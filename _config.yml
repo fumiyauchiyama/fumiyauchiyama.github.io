@@ -96,7 +96,7 @@ defaults:
 author:
   name: "Fumiya UCHIYAMA"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Main interest is a **Language Model**. Currently I'm a beginner of distributed computation." # Note: Markdown is allowed
+  bio: "Main interest is in **Language Models**. Currently I'm a beginner in distributed computing." # Note: Markdown is allowed
 
   links:
     - label: "Twitter"
