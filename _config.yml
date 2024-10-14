@@ -58,6 +58,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 atom_feed:
   hide: true
 
