@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to ようこそ fumyiauchiyama.github.io"
+title:  "Welcome to ようこそ fumiyauchiyama.github.io"
 layout: single
 ---
 これはテストの投稿です。I used this post to inspect markdown features on the framework. `times-uchiyama`

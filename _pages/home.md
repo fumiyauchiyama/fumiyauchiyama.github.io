@@ -8,7 +8,7 @@ permalink: /
 
 B3, The University of Tokyo
 ## CAREER
- - 2024.1 - : Internship at UTLLM project, Matsuo Lab (UTokyo).
+ - 2024.1 - : Internship at UTLLM project, Matsuo-Iwasawa Lab (UTokyo).
  - 2023.9 - 2023.12 : ML Engineer/Annotator at LLM-X project, Matsuo Lab (UTokyo)
  - 2023.5 - : Reaserch Part-time Worker 2 at Deep Learning Theory Team, RIKEN AIP
  - 2022.9 - 2023.8: Part-time worker at Corpy&Co.
