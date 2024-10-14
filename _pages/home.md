@@ -23,7 +23,7 @@ B3, The University of Tokyo
  - 2021.8 - : Yugen Member at NPO Suuri-no-Tsubasa(数理の翼)
  - 2020.4 - 2021.3 : JST Global Science Campus "Experts in Information Science(情報科学の達人)", Sponsored by the National Institute of Informatics (**Got best award**)
 
-## EVENTS
+## EVENT
  - 2023.8 : Crypto-course(L2) participant at [SecCamp2023](https://www.ipa.go.jp/jinzai/security-camp/2023/zenkoku/index.html), IPA.
  - 2022.8 : Special Session by National Institute of Informatics, WCCE 2022
  - 2021.8 : The 41st Suuri-no-Tsubasa(数理の翼) seminar
