@@ -31,8 +31,8 @@ B4, The University of Tokyo
  - 2017 : Teens Apps Awards (アプリ甲子園) 2017 (**3rd Grand Prize**, **Dentsu Isobar Award**)
 
 ## EDUCATION
- - 2024.4 - : Bachelor(Systems Innovation, Faculty of Engineering), Belong to [Matsuo-Iwasawa Lab.](https://weblab.t.u-tokyo.ac.jp/member/%E5%86%85%E5%B1%B1-%E5%8F%B2%E4%B9%9F/), UTokyo
- - 2022.4 - 2024.3 : Bachelor(Natural Sciences I, The College of Arts and Sciences), UTokyo
+ - 2024.4 - Present : Undergraduate Student, [Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/member/%E5%86%85%E5%B1%B1-%E5%8F%B2%E4%B9%9F), Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
+ - 2022.4 - 2024.3 : Undergraduate Student (Natural Sciences I, College of Arts and Sciences), The University of Tokyo
 
 ## SKILL
  - Python
