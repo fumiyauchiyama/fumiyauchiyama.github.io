@@ -6,7 +6,7 @@ permalink: /
 
 ![Grass at Yasuda Auditorium](/assets/images/yasuda_gusa.jpg "Grass at Yasuda Auditorium")
 
-B3, The University of Tokyo
+B4, The University of Tokyo
 ## CAREER
  - 2024.1 - : Internship at UTLLM project, Matsuo-Iwasawa Lab (UTokyo).
  - 2023.9 - 2023.12 : ML Engineer/Annotator at LLM-X project, Matsuo Lab (UTokyo)
@@ -18,7 +18,7 @@ B3, The University of Tokyo
  - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, “ツイートとリプライからなる木構造を用いた炎上度判定.”, 情報処理学会第83回全国大会, 5P-06, Mar. 2021. (**Got Student Encouragement Award**)
 
 ## MEMBERSHIP
- - 2023.4 - : Engineer at <a href="https://www.autores.one/home">Autores</a>, Matsuo Lab.
+ - 2023.4 - : Engineer at <a href="https://www.autores.one/home">Autores</a>, Matsuo-Iwasawa Lab.
  - 2022.9 - : Research Member at cvpaper.challenge, AIST
  - 2021.8 - : Yugen Member at NPO Suuri-no-Tsubasa(数理の翼)
  - 2020.4 - 2021.3 : JST Global Science Campus "Experts in Information Science(情報科学の達人)", Sponsored by the National Institute of Informatics (**Got best award**)
@@ -31,7 +31,7 @@ B3, The University of Tokyo
  - 2017 : Teens Apps Awards (アプリ甲子園) 2017 (**3rd Grand Prize**, **Dentsu Isobar Award**)
 
 ## EDUCATION
- - 2024.4 - : Bachelor(Systems Innovation, Faculty of Engineering), UTokyo
+ - 2024.4 - : Bachelor(Systems Innovation, Faculty of Engineering), Belong to [Matsuo-Iwasawa Lab.](https://weblab.t.u-tokyo.ac.jp/member/%E5%86%85%E5%B1%B1-%E5%8F%B2%E4%B9%9F/), UTokyo
  - 2022.4 - 2024.3 : Bachelor(Natural Sciences I, The College of Arts and Sciences), UTokyo
 
 ## SKILL
