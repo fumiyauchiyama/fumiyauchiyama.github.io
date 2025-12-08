@@ -14,7 +14,7 @@ B4, The University of Tokyo
  - 2022.9 - 2023.8: Part-time worker at Corpy&Co.
 
 ## PUBLISHMENT
- - Fumiya Uchiyama, Rintaro Yanagi, Shohei Taniguchi, Shota Takashiro, Masahiro Suzuki, Hirokatsu Kataoka, Yusuke Iwasawa, Yutaka Matsuo. CLIP-like Model as a Foundational Density Ratio Estimator. arXiv preprint arXiv:2506.22881.
+ - Fumiya Uchiyama, Rintaro Yanagi, Shohei Taniguchi, Shota Takashiro, Masahiro Suzuki, Hirokatsu Kataoka, Yusuke Iwasawa, Yutaka Matsuo. CLIP-like Model as a Foundational Density Ratio Estimator. [[arXiv](https://arxiv.org/abs/2506.22881)]
  - Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo. Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?, The 2024 Main Conference on Empirical Methods in Natural Language Processing
  - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, “ツイートとリプライからなる木構造を用いた炎上度判定.”, 情報処理学会第83回全国大会, 5P-06, Mar. 2021. (**Got Student Encouragement Award**)
 
