@@ -30,7 +30,7 @@ B4, The University of Tokyo
  - 2022.8 : Special Session by National Institute of Informatics, WCCE 2022
  - 2021.8 : The 41st Suuri-no-Tsubasa(数理の翼) seminar
  - 2017 : ICT Challenge+R 2017 (**U18 Presentation Awards**, **U18 LIFULL Awards**, **U18 FANCOMI Awards**, **U18 SoftCube Awards**)
- - 2017 : Teens Apps Awards (アプリ甲子園) 2017 (**3rd Grand Prize**, **Dentsu Isobar Award**)
+ - 2017 : [Teens Apps Awards (アプリ甲子園)](https://applikoshien.jp/) 2017 (**3rd Grand Prize**, **Dentsu Isobar Award**)
 
 ## EDUCATION
  - 2024.4 - Present : Undergraduate Student, [Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/member/%E5%86%85%E5%B1%B1-%E5%8F%B2%E4%B9%9F), Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
