@@ -20,7 +20,7 @@ B4, The University of Tokyo
  - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, ツイートとリプライからなる木構造を用いた炎上度判定 (Flaming Tweet Detection based on Sentiments and Structures of Tweet-Reply Tree). 情報処理学会第83回全国大会 (IPSJ2021), 5P-06, Mar. 2021. (**Got Student Encouragement Award**) [[CiNii](https://cir.nii.ac.jp/crid/1050011097168011008)]
 
 ## MEMBERSHIP
- - 2023.4 - : Engineer at <a href="https://www.autores.one/home">Autores</a>, Matsuo-Iwasawa Lab.
+ - 2023.4 - : Engineer at [AutoRes](https://www.autores.one), Matsuo-Iwasawa Lab.
  - 2022.9 - : Research Member at [cvpaper.challenge](https://xpaperchallenge.org/cv/), AIST
  - 2021.8 - : Yugen Member at NPO [Suuri-no-Tsubasa (数理の翼)](https://www.npo-tsubasa.jp/)
  - 2020.4 - 2021.3 : JST Global Science Campus "[Experts in Information Science(情報科学の達人)](https://www.nii.ac.jp/tatsujin/en/)", Sponsored by the National Institute of Informatics (**Got best award**)
