@@ -17,13 +17,13 @@ B4, The University of Tokyo
  - Fumiya Uchiyama, Rintaro Yanagi, Shohei Taniguchi, Shota Takashiro, Masahiro Suzuki, Hirokatsu Kataoka, Yusuke Iwasawa, Yutaka Matsuo. CLIP-like Model as a Foundational Density Ratio Estimator. [[arXiv](https://arxiv.org/abs/2506.22881)]
  - Yohei Kobashi, Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo. Crypto-LLM: Two-Stage Language Model Pre-training with Ciphered and Natural Language Data. **IJCNLP-AACL 2025, oral presentation**
  - Fumiya Uchiyama, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo. Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance? **EMNLP2024 Main, poster** [[ACL Anthology](https://aclanthology.org/2024.emnlp-main.1008/)]
- - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, ツイートとリプライからなる木構造を用いた炎上度判定 (Flaming Tweet Detection based on Sentiments and Structures of Tweet-Reply Tree). 情報処理学会第83回全国大会 (IPSJ2021), 5P-06, Mar. 2021. (**Got Student Encouragement Award**) [[CiNii](cir.nii.ac.jp/crid/1050011097168011008)]
+ - 内山史也, 荒瀬由紀, 鳴海紘也, 河原林健一, ツイートとリプライからなる木構造を用いた炎上度判定 (Flaming Tweet Detection based on Sentiments and Structures of Tweet-Reply Tree). 情報処理学会第83回全国大会 (IPSJ2021), 5P-06, Mar. 2021. (**Got Student Encouragement Award**) [[CiNii](https://cir.nii.ac.jp/crid/1050011097168011008)]
 
 ## MEMBERSHIP
  - 2023.4 - : Engineer at <a href="https://www.autores.one/home">Autores</a>, Matsuo-Iwasawa Lab.
- - 2022.9 - : Research Member at cvpaper.challenge, AIST
- - 2021.8 - : Yugen Member at NPO Suuri-no-Tsubasa(数理の翼)
- - 2020.4 - 2021.3 : JST Global Science Campus "Experts in Information Science(情報科学の達人)", Sponsored by the National Institute of Informatics (**Got best award**)
+ - 2022.9 - : Research Member at [cvpaper.challenge](https://xpaperchallenge.org/cv/), AIST
+ - 2021.8 - : Yugen Member at NPO [Suuri-no-Tsubasa (数理の翼)](https://www.npo-tsubasa.jp/)
+ - 2020.4 - 2021.3 : JST Global Science Campus "[Experts in Information Science(情報科学の達人)](https://www.nii.ac.jp/tatsujin/en/)", Sponsored by the National Institute of Informatics (**Got best award**)
 
 ## EVENT
  - 2023.8 : Crypto-course(L2) participant at [SecCamp2023](https://www.ipa.go.jp/jinzai/security-camp/2023/zenkoku/index.html), IPA.
