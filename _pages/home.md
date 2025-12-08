@@ -23,7 +23,7 @@ B4, The University of Tokyo
  - 2023.4 - : Engineer at <a href="https://www.autores.one/home">Autores</a>, Matsuo-Iwasawa Lab.
  - 2022.9 - : Research Member at cvpaper.challenge, AIST
  - 2021.8 - : Yugen Member at NPO Suuri-no-Tsubasa(数理の翼)
- - 2020.4 - 2021.3 : JST Global Science Campus "Experts in Information Science(情報科学の達人)", Sponsored by the National Institute of Informatics (**Got best award**)
+ - 2020.4 - 2021.3 : JST Global Science Campus "Experts in Information Science(情報科学の達人)", Sponsored by the National Institute of Informatics (**Got best award**) [[CiNii](cir.nii.ac.jp/crid/1050011097168011008)]
 
 ## EVENT
  - 2023.8 : Crypto-course(L2) participant at [SecCamp2023](https://www.ipa.go.jp/jinzai/security-camp/2023/zenkoku/index.html), IPA.
